@@ -1,0 +1,22 @@
+{
+  "name": "classextends",
+  "version": "1.0.0",
+  "description": "compare class extends between es5 and es6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamweilee/classextends.git"
+  },
+  "author": "liwei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamweilee/classextends/issues"
+  },
+  "homepage": "https://github.com/iamweilee/classextends#readme",
+  "dependencies": {
+    "iguzhi": "0.0.5"
+  }
+}
